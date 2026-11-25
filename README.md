@@ -1,1 +1,0 @@
-# CSA6506-Generative-ai
